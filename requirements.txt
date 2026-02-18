@@ -1,0 +1,6 @@
+numpy
+torch
+onnx
+pandas
+matplotlib
+scipy
